@@ -1,6 +1,6 @@
 def get_first_name_of_season_winner(data, season)
   new_hash = {}
-  
+  season.each do { }
 end
 
 def get_contestant_name(data, occupation)
